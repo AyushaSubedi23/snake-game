@@ -13,3 +13,4 @@ A simple Snake game made using Python and Pygame.
  Arrow keys → Move
  C → Play again
  Q → Quit
+# snake-game
