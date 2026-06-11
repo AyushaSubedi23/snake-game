@@ -4,7 +4,7 @@ A simple Snake game built using **Python (Pygame)** with a **web version (JavaSc
 ---
 ## 🌐 Play Online (Web Version)
 
-👉 https://your-github-pages-link-here
+👉https://AyushaSubedi23.github.io/snake-game/index.html
 
 ---
 
